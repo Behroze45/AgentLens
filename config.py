@@ -1,0 +1,2 @@
+OLLMA_BASE_URL="http://localhost:11434/v1"
+MODEL="qwen2.5:3b"
